@@ -1,0 +1,10 @@
+{
+  "realm": "demo",
+  "auth-server-url": "https://sso-test-sso.apps.ocp.clouwd.nl/auth",
+  "ssl-required": "external",
+  "resource": "vanilla",
+  "credentials": {
+    "secret": "ad098c29-30b3-4ea7-a6c3-f02b6597217d"
+  },
+  "confidential-port": 0
+}
